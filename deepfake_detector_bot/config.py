@@ -11,11 +11,12 @@ N_MFCC = 40
 TEST_SIZE = 0.2
 RANDOM_STATE = 42
 
-BOT_TOKEN = '7487000521:AAFCKo4kK9thKbnOHDv1ycSxyw31Vn91mLI'
+BOT_TOKEN = '#:#'
 
 THRESHOLDS = {
     'REAL_MAX': 0.75,      
     'UNCERTAIN_MIN': 0.75, 
     'UNCERTAIN_MAX': 0.85, 
     'FAKE_MIN': 0.85,      
+
 }
